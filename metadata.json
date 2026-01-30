@@ -1,0 +1,7 @@
+{
+  "name": "Schicksalsmatrix & Raster Dashboard",
+  "description": "A numerology dashboard combining Destiny Matrix and Raster Grid analysis with AI-generated audio podcasts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
